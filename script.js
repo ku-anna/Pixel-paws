@@ -56,3 +56,5 @@ setInterval(() => {
   pet1.decreaseFedLevel();
   pet2.decreaseFedLevel();
 }, 5000);
+
+selectPet(1);
